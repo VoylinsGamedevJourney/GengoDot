@@ -1,4 +1,4 @@
-# Godot POT tool
+# GengoDot
 A POT helper for Godot.
 ## WIP
 This is very much a concept for now as this will need some improvements to be done inside the Godot editor such as text areas to gie more context for Strings.
